@@ -1,0 +1,7 @@
+django
+pyyaml
+ua-parser
+user-agents
+django-user-agents
+python-dotenv
+psycopg2-binary==2.9.1
